@@ -17,17 +17,20 @@
 <resources>
     <string name="app_name">Navigation Drawer Example</string>
     <string-array name="planets_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>Group 1</item>
+        <item>Group 2</item>
+        <item>Group 3</item>
+        <item>Group 4</item>
     </string-array>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
-    <string name="action_websearch">Web search</string>
+    <string name="action_notifications">Notifications</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="next_alarm">Next Alarm in XX hours XX min</string>
+    <string name="groupName_location">GroupName @ Location</string>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_grey">#4C4C4C</color>
+    <color name="light_grey">#EDEDED</color>
 </resources>
